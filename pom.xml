@@ -4,7 +4,7 @@
   <packaging>jar</packaging>
   <version>${BUILD_NUMBER}</version>
   <groupId>com.example.example.qa</groupId>
-    <artifactId>exampleQAAutomation</artifactId>
+    <artifactId>roop</artifactId>
   <name>javaapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
